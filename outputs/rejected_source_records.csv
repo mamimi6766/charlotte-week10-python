@@ -1,0 +1,2 @@
+well_id,timestamp,oil_bbl,water_bbl,gas_mscf,pressure_psi,status,ingested_at,source_line,rejection_reason
+WELL-22,,72.0,22,150,2960,ACTIVE,2026-04-10 01:00:00,36,Invalid timestamp

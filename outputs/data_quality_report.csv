@@ -1,0 +1,8 @@
+metric,count
+invalid_timestamp_rows,1
+duplicate_rows_removed,2
+six_hour_slots_inserted,4
+missing_oil_bbl,6
+missing_water_bbl,5
+missing_gas_mscf,5
+missing_pressure_psi,0

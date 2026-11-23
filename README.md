@@ -20,3 +20,5 @@ Open `notebook/Week10_Class5_Student_Capstone.ipynb` and run its cells. The resu
 To run the tests from the project folder:
 ```bash
 python -m pytest tests -v
+
+Pull request: https://github.com/mamimi6766/charlotte-week10-python/pull/1
